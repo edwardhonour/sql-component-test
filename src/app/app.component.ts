@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { SqlFormComponent } from 'sql-components';
 
 @Component({
   selector: 'app-root',
